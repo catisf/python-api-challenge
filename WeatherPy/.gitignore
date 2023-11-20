@@ -1,2 +1,8 @@
 # Adding config.py file.
 api_keys.py
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# pycache
+__pycache__
